@@ -1,5 +1,5 @@
-WELCOME TO DEVOPS WORLD 
+Welcome to DevOps world
 
-I AM MAHESH KUMAR JADHAV
+I am Mahesh Kumar Jadhav
 
-A AWS-DEVOPS TRAINNEE
+An AWS-DevOps trainee
